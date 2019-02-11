@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $('#btnSun').click(myFunction);
+  $('#testcall123456').click(myFunction);
 });
 
 function myFunction() {
